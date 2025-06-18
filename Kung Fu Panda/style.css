@@ -1,0 +1,50 @@
+
+html {
+    background-image: url(img/kungfupandabackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.651);
+    width: 600px;
+    margin: auto;
+    border-radius: 18px;
+    padding: 10px 0 0;
+    margin-top: 45px;
+    margin-bottom: 50px;
+}
+
+
+h1, h2 {
+    font-family: 'Bilbo';
+    font-size: 50px;
+}
+div{
+    padding-bottom: 40px; 
+    font-size: 18px;
+}
+button {
+    background-color: rgba(72, 116, 63, 0.7);
+    border-radius: 4px;
+    height: 25px;
+    width: 70px;
+    color: white;
+}
+
+button:hover {
+    background-color: rgba(121, 192, 107, 0.7);
+    cursor: pointer;
+}
+
+input {
+    height: 19px;
+    width: 230px;
+    border-radius: 5px;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
